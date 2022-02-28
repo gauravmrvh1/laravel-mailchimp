@@ -27,7 +27,7 @@ php artisan vendor:publish
 For optional if you want to use Alias class you can add this to config/app.php
 ```
 aliases => [
-      'MailChimp' => ALtelma\LaravelMailChimp\MailChimpFacde::class
+      'MailChimp' => ALtelma\LaravelMailChimp\MailChimpFacade::class
 ]
 
 ```
