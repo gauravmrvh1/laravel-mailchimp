@@ -2,7 +2,7 @@
 <img src="https://images.ctfassets.net/3g7s03pwyjhz/2IzXOYWCE0GGMMMcGaQGUa/417075681409c9f43a359a999498c71b/bigcartel_headerx2.png?w=998&fm=webp" alt="JWT">
 </p>
 
-# Laravel MailChimp
+# Laravel MailChimp By GAURAV MARVAHA
 [![Total Downloads](https://poser.pugx.org/ALTELMA/laravel-mailchimp/d/total.svg)](https://packagist.org/packages/altelma/laravel-mailchimp)
 
 A packages provides you to connect mailchimp API v3
