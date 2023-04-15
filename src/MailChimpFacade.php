@@ -3,7 +3,7 @@
 namespace Altelma\LaravelMailChimp;
 
 use Illuminate\Support\Facades\Facade;
-// 
+
 class MailChimpFacade extends Facade
 {
     /**
